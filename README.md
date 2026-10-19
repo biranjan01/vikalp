@@ -6,7 +6,7 @@
 
 `option chains · greeks · strategy payoff · max pain · position analyzer · MCP server`
 
-[![CI](https://img.shields.io/badge/CI-TODO-blue)](#) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Python](https://img.shields.io/badge/python-3.10+-blue)](#)
+[![CI](https://github.com/biranjan01/vikalp/actions/workflows/ci.yml/badge.svg)](https://github.com/biranjan01/vikalp/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE) [![Python](https://img.shields.io/badge/python-3.10+-blue)](#) [![MCP](https://img.shields.io/badge/MCP-server-blue)](#mcp-tools)
 
 </div>
 
@@ -32,7 +32,8 @@ walled garden. Meanwhile AI agents can't touch market data at all. Vikalp fixes 
 ## Quickstart
 
 ```bash
-pip install vikalp
+pip install git+https://github.com/biranjan01/vikalp
+# PyPI package (pip install vikalp) ships with the v0.2 release
 ```
 
 ### Use from your AI agent (MCP)

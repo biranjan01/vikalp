@@ -24,8 +24,8 @@ dev = ["pytest>=8.0", "ruff>=0.6"]
 vikalp-mcp = "vikalp.server:main"
 
 [project.urls]
-Homepage = "https://github.com/TODO/vikalp"
-Issues = "https://github.com/TODO/vikalp/issues"
+Homepage = "https://github.com/biranjan01/vikalp"
+Issues = "https://github.com/biranjan01/vikalp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/vikalp"]
