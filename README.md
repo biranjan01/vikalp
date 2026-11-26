@@ -100,3 +100,4 @@ advisor before trading.
 ## License
 
 [MIT](LICENSE)
+[![M8ven Score](https://m8ven.ai/badge/mcp/biranjan01-vikalp-1ka1ac?v=37d70aace5af7476bd7b659ae853f67c)](https://m8ven.ai/mcp/biranjan01-vikalp-1ka1ac?s=readme)
